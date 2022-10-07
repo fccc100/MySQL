@@ -9,3 +9,4 @@ ON
     p.employee_id = e.employee_id
 GROUP BY
     p.project_id;
+    
